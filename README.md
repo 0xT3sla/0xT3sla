@@ -30,4 +30,3 @@
 <h3 align="left">Pentesting tools:</h3>
 <p align="left"> <a href="https://www.rapid7.com/products/metasploit/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/> </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xt3sla&" alt="0xt3sla" /></p>
