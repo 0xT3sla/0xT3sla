@@ -24,29 +24,7 @@
 
 <div align="left"> 
 
-<a href="https://www.rapid7.com/products/metasploit/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="zaproxy" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://www.nmap.org" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/768px-Ghidra_logo.svg.png?20220727174502" alt="ghidra" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://www.kali.org/tools/netcat/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://www.kali.org/tools/sqlmap/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john-the-ripper" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="40" height="40"/> </a> &nbsp;
-
-<a href="https://github.com/OJ/gobuster" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="hashcat" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.rapid7.com/products/metasploit/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="40" height="40"/> </a> &nbsp;<a href="https://owasp.org/www-project-zap/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="zaproxy" width="40" height="40"/> </a> &nbsp;<a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/> </a> &nbsp;<a href="https://www.nmap.org" target="_blank" rel="noreferrer"> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> </a> &nbsp;<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="wireshark" width="40" height="40"/> </a> &nbsp;<a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/768px-Ghidra_logo.svg.png?20220727174502" alt="ghidra" width="40" height="40"/> </a> &nbsp;<a href="https://www.kali.org/tools/netcat/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="40" height="40"/> </a> &nbsp;<a href="https://www.kali.org/tools/sqlmap/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="40" height="40"/> </a> &nbsp;<a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john-the-ripper" width="40" height="40"/> </a> &nbsp;<a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="40" height="40"/> </a> &nbsp;<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="40" height="40"/> </a> &nbsp;<a href="https://github.com/OJ/gobuster" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="hashcat" width="40" height="40"/> </a> &nbsp;
 
 </div>
 <!-- -------------------------------------------------------------------------- -->
