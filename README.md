@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Web application and Network Penetration testing.**
 
-- 👨‍💻 All of my blogs are available at [Here](0xT3sla.github.io)
+- 👨‍💻 You can vist my personal website at [Here](0xtesla.tech)
 
-- 📝 I regularly write articles on [Here](0xtesla.medium.com)
+- 📝 All of my blogs are available at [Here](0xtesla.medium.com)
 
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/jeyavasan-t-70b031206/)
 
