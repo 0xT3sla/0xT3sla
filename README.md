@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/0xt3sla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xt3sla" height="30" width="40" /></a> &nbsp; &nbsp;
 <a href="https://linkedin.com/in/jeyavasan-t-70b031206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeyavasan-t-70b031206" height="30" width="40" /></a> &nbsp; &nbsp;
-<a href="https://medium.com/@0xtesla" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@0xtesla" height="30" width="40" /></a> &nbsp;
+<a href="https://medium.com/@0xtesla" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@0xtesla" height="30" width="40" /></a> &nbsp;&nbsp; <a href="https://0xtesla.tech" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=iSt_nviv6X5u&format=png" alt="0xt3sla" height="30" width="40" /></a>
 </p>
 
 <!-- -------------------------------------------------------------------------- -->
